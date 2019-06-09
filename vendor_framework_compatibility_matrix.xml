@@ -461,7 +461,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             <instance>default</instance>
         </interface>
     </hal>
-    <hal format="hidl" optional="true">
+    <!--hal format="hidl" optional="true">
         <name>vendor.mokee.livedisplay</name>
         <version>2.0</version>
         <interface>
@@ -489,7 +489,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             <name>IUsbRestrict</name>
             <instance>default</instance>
         </interface>
-    </hal>
+    </hal-->
     <hal format="hidl" optional="true">
         <name>vendor.xiaomi.hardware.mlipay</name>
         <transport>hwbinder</transport>
