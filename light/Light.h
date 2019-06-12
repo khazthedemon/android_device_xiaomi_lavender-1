@@ -54,4 +54,4 @@ class Light : public ILight {
 }  // namespace hardware
 }  // namespace android
 
-#endif  // ANDROID_HARDWARE_LIGHT_V2_0_LIGHT_H
+#endif // ANDROID_HARDWARE_LIGHT_V2_0_LIGHT_H
