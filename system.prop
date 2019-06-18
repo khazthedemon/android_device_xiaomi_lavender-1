@@ -234,9 +234,20 @@ persist.vendor.radio.data_con_rprt=1
 persist.vendor.radio.snapshot_enabled=1
 persist.vendor.radio.snapshot_timer=5
 
+#lct liuxuan add the dom ignore time
+persist.vendor.radio.ignore_dom_time=15
+
 #add for color invert
 ro.vendor.df.effect.conflict=1
 persist.sys.df.extcolor.proc=0
+#paper mode
+sys.paper_mode_max_level=255
+sys.tianma_nt36672a_offset=6
+sys.tianma_nt36672a_length=42
+sys.boe_td4320_offset=-9
+sys.boe_td4320_length=42
+sys.shenchao_nt36672a_offset=-10
+sys.shenchao_nt36672a_length=38
 
 #enable all system restart_level to relative
 persist.vendor.ssr.restart_level=ALL_ENABLE
